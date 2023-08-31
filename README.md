@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You can check the source of this project in the course of Net Ninja (https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
